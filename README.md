@@ -3,7 +3,7 @@
 
 This repository contains a basic CRUD API implemented in Go, providing endpoints to create, read, update, and delete items in an in-memory store. The API is designed with simplicity and uses only the Go standard library.
 
-## Repository: [sojoudian/go-items-api](https://github.com/sojoudian/go-items-api)
+## Repository: [https://github.com/sojoudian/go-items-api](https://github.com/sojoudian/go-items-api)
 
 ## Requirements
 - Go 1.23 or higher
