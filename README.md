@@ -12,7 +12,7 @@ This repository contains a basic CRUD API implemented in Go, providing endpoints
 Clone the repository and navigate into the project directory.
 
 ```bash
-git clone https://github.com/sojoudian/go-items-api.git
+git clone https://github.com/sojoudian/go-items-api-v1.git
 cd go-items-api
 ```
 
